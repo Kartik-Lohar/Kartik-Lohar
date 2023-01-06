@@ -43,7 +43,7 @@ Achivements:
  - 5 Star on Hackerrank
  - 50 Days Badge on Leetcode
 
-# CERTIFICATES
+# Certificates
  - Python Certified Associate Professional(PCAP): Python Institute
  - Intro to Deep Learning: Kaggle
  - Intermediate Machine Learning : Kaggle
