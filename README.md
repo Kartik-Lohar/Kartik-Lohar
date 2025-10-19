@@ -4,8 +4,8 @@ Passionate, Computer Science Engineer and a Certified Python Associate, Expertis
 
 # Personal Details
 - Mailid: kartikpanchal1409@gmail.com
-- Location: Dungarpur, Rajasthan, India
-- LinkedIn: https://www.linkedin.com/in/kartik-lohar-5686b7194/
+- Location: Gurugram, Haryana, India
+- LinkedIn: https://www.linkedin.com/in/kartik-lohar
 - Kaggle: https://www.kaggle.com/kartikpanchal12
 - Leetcode: https://leetcode.com/kartikpanchal1409/
 - Hackerrank: https://www.hackerrank.com/kartikpanchal141
